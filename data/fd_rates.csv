@@ -1,0 +1,8 @@
+bank,tenure,rate,effective_date,scraped_date
+Citizens Bank,3 months and below 6 months,2.85,2026-03-15,2026-03-23
+Citizens Bank,6 months and below 12 months,3.0,2026-03-15,2026-03-23
+Citizens Bank,12 months and below 24 Months,3.5,2026-03-15,2026-03-23
+Citizens Bank,24 Months and above,4.5,2026-03-15,2026-03-23
+Everest Bank,3 Months to 2 years,2.75,2026-03-15,2026-03-23
+Everest Bank,Above 2 years to 5 years,3.5,2026-03-15,2026-03-23
+Everest Bank,Above 5 years,4.25,2026-03-15,2026-03-23
