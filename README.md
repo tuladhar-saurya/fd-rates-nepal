@@ -22,12 +22,14 @@ To build a public dashboard comparing FD rates across Nepali banks so that you c
 
 ## 📂 Project Structure
 
+```
 fd_webscraping/
 │
-├── scrapers/        # Individual bank scrapers
-├── data/            # Collected dataset
-├── main.py          # Runs all scrapers
-├── README.md
+├── scrapers/        # Individual bank scrapers  
+├── data/            # Collected dataset  
+├── main.py          # Runs all scrapers  
+├── README.md  
+```
 
 ## 📊 Dataset
 
