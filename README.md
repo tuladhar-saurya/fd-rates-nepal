@@ -17,7 +17,7 @@ To build a public dashboard comparing FD rates across Nepali banks so that you c
 
 * Citizens Bank
 * Everest Bank
-
+* Himalayan Bank
 (More coming soon)
 
 ## 📂 Project Structure
