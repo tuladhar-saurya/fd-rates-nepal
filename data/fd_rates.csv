@@ -1,22 +1,27 @@
 bank,tenure,rate,rate_type,effective_date,scraped_date
-Citizens Bank,3 months and below 6 months,2.85,standard,2026-03-15,2026-04-07
-Citizens Bank,6 months and below 12 months,3.0,standard,2026-03-15,2026-04-07
-Citizens Bank,12 months and below 24 Months,3.5,standard,2026-03-15,2026-04-07
-Citizens Bank,24 Months and above,4.5,standard,2026-03-15,2026-04-07
-Everest Bank,3 Months to 2 years,2.75,standard,2026-03-15,2026-04-07
-Everest Bank,Above 2 years to 5 years,3.5,standard,2026-03-15,2026-04-07
-Everest Bank,Above 5 years,4.25,standard,2026-03-15,2026-04-07
-Himalayan Bank,3 Months,2.8,standard,2026-02-13,2026-04-07
-Himalayan Bank,6 Months,2.9,standard,2026-02-13,2026-04-07
-Himalayan Bank,9 Months,3.0,standard,2026-02-13,2026-04-07
-Himalayan Bank,1 Year Up to 2 Years,3.5,standard,2026-02-13,2026-04-07
-Himalayan Bank,Above 2 Years Up to 5 Years,4.0,standard,2026-02-13,2026-04-07
-Himalayan Bank,Above 5 Years Up to 10 Years,5.0,standard,2026-02-13,2026-04-07
-Kumari Bank,3 months to below 1 year,2.75,standard,2026-03-15,2026-04-07
-Kumari Bank,3 months to below 1 year,2.8,mobile_app,2026-03-15,2026-04-07
-Kumari Bank,1 year to below 2 years,2.81,standard,2026-03-15,2026-04-07
-Kumari Bank,1 year to below 2 years,3.01,mobile_app,2026-03-15,2026-04-07
-Kumari Bank,2 years and above,3.92,standard,2026-03-15,2026-04-07
-Kumari Bank,2 years and above,4.12,mobile_app,2026-03-15,2026-04-07
-Kumari Bank,Fixed Deposit Plus/Recurring (1 year to 5 years),2.81,standard,2026-03-15,2026-04-07
-Kumari Bank,Fixed Deposit Plus/Recurring (1 year to 5 years),3.01,mobile_app,2026-03-15,2026-04-07
+Citizens Bank,3 months and below 6 months,2.85,standard,2026-03-15,2026-04-08
+Citizens Bank,6 months and below 12 months,3.0,standard,2026-03-15,2026-04-08
+Citizens Bank,12 months and below 24 Months,3.5,standard,2026-03-15,2026-04-08
+Citizens Bank,24 Months and above,4.5,standard,2026-03-15,2026-04-08
+Everest Bank,3 Months to 2 years,2.75,standard,2026-03-15,2026-04-08
+Everest Bank,Above 2 years to 5 years,3.5,standard,2026-03-15,2026-04-08
+Everest Bank,Above 5 years,4.25,standard,2026-03-15,2026-04-08
+Himalayan Bank,3 Months,2.8,standard,2026-02-13,2026-04-08
+Himalayan Bank,6 Months,2.9,standard,2026-02-13,2026-04-08
+Himalayan Bank,9 Months,3.0,standard,2026-02-13,2026-04-08
+Himalayan Bank,1 Year Up to 2 Years,3.5,standard,2026-02-13,2026-04-08
+Himalayan Bank,Above 2 Years Up to 5 Years,4.0,standard,2026-02-13,2026-04-08
+Himalayan Bank,Above 5 Years Up to 10 Years,5.0,standard,2026-02-13,2026-04-08
+Kumari Bank,3 months to below 1 year,2.75,standard,2026-03-15,2026-04-08
+Kumari Bank,3 months to below 1 year,2.8,mobile_app,2026-03-15,2026-04-08
+Kumari Bank,1 year to below 2 years,2.81,standard,2026-03-15,2026-04-08
+Kumari Bank,1 year to below 2 years,3.01,mobile_app,2026-03-15,2026-04-08
+Kumari Bank,2 years and above,3.92,standard,2026-03-15,2026-04-08
+Kumari Bank,2 years and above,4.12,mobile_app,2026-03-15,2026-04-08
+Kumari Bank,Fixed Deposit Plus/Recurring (1 year to 5 years),2.81,standard,2026-03-15,2026-04-08
+Kumari Bank,Fixed Deposit Plus/Recurring (1 year to 5 years),3.01,mobile_app,2026-03-15,2026-04-08
+Laxmi Sunrise Bank,3 months - Below 6 months,3.0,standard,2026-03-15,2026-04-08
+Laxmi Sunrise Bank,6 months - Below 1 years,3.0,standard,2026-03-15,2026-04-08
+Laxmi Sunrise Bank,1 year - Below 2 years,3.5,standard,2026-03-15,2026-04-08
+Laxmi Sunrise Bank,2 years - Below 5 years,4.0,standard,2026-03-15,2026-04-08
+Laxmi Sunrise Bank,5 years and above,4.5,standard,2026-03-15,2026-04-08
