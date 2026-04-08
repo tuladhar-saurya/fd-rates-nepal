@@ -75,6 +75,7 @@ def get_everest_fd_rates():
                         "bank": "Everest Bank",
                         "tenure": tenure,
                         "rate": float(rate.replace("%", "").strip()),
+                        "rate_type": "standard",
                         "effective_date": effective_date
                     })
 

@@ -5,12 +5,14 @@ from datetime import date
 from scrapers.citizens import get_citizens_fd_rates
 from scrapers.everest import get_everest_fd_rates
 from scrapers.himalayan import get_himalayan_fd_rates
+from scrapers.kumari import get_kumari_fd_rates
 
 all_data = []
 
 all_data.extend(get_citizens_fd_rates())
 all_data.extend(get_everest_fd_rates())
 all_data.extend(get_himalayan_fd_rates())
+all_data.extend(get_kumari_fd_rates())
 
 df = pd.DataFrame(all_data)
 

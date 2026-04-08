@@ -56,6 +56,7 @@ def get_citizens_fd_rates():
                         "bank": "Citizens Bank",
                         "tenure": tenure,
                         "rate": float(rate.replace("%","").strip()),
+                        "rate_type": "standard",
                         "effective_date": effective_date   # ← NEW
                     })
 

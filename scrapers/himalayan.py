@@ -87,6 +87,7 @@ def get_himalayan_fd_rates():
                 "bank": "Himalayan Bank",
                 "tenure": tenure,
                 "rate": rate_value,
+                "rate_type": "standard",
                 "effective_date": effective_date
             })
 
